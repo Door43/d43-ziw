@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ziw:home|Door43 (ziw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ziw|d43-ziw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ziw/archive/master.zip|d43-ziw.zip]]
+
+**Recent Changes**
+{{changes>ns = ziw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ziw|Ethnologue data]]
+
